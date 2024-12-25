@@ -10,7 +10,7 @@ body {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    box-shadowr:rgb(46, 204, 113);
+    box-shadow: 0 2px 4px rgb(46, 204, 113); /* Corrected */
     border-radius: 8px;
 }
 
@@ -21,7 +21,7 @@ body {
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
-    box-shadow: 0 2px 4px rgb(46, 204, 113) ;
+    box-shadow: 0 2px 4px rgb(46, 204, 113); /* Corrected */
     background-color: #fff;
 }
 
